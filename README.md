@@ -15,15 +15,16 @@ This project is an intelligent web scraper that extracts content from an HTML pa
 ## Setupt and Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/ai-web-scraper.git
+git clone https://github.com/mohamed-hazem/ai-web-scraper.git
 cd ai-web-scraper
 ```
 2. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-3. Download and Install [Ollama](https://ollama.com/download):
-```
+3. Download and Install [Ollama](https://ollama.com/download) | (Ollama github)[https://github.com/ollama/ollama]:
+4. Download *llama3.2* 3B model
+```bash
 ollama pull llama3.2
 ```
 
