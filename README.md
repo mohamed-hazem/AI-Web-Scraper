@@ -22,13 +22,14 @@ cd ai-web-scraper
 ```
 pip install -r requirements.txt
 ```
-3. Download and Install [Ollama](https://ollama.com/download) | (Ollama github)[https://github.com/ollama/ollama]:
-4. Download *llama3.2* 3B model
-```bash
+3. Download and Install [Ollama](https://ollama.com/download) | [github](https://github.com/ollama/ollama):
+
+4. Download **llama3.2** -> *3B Parameters* 
+```
 ollama pull llama3.2
 ```
 
-4. Run the application:
+5. Run the application:
 ```
 streamlit run app.py
 ```
