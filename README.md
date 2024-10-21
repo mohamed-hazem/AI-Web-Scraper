@@ -12,7 +12,7 @@ This project is an intelligent web scraper that extracts content from an HTML pa
 3. **LLaMA 3.2 Processing:** The chunks are sent to the LLaMA 3.2 model, along with a description (e.g., "Extract product prices"), and the model processes each chunk.
 4. **Response Generation:** The LLaMA model returns the scraped data based on the description.
 
-## Setupt and Installation
+## Setup and Installation
 1. Clone the repository:
 ```
 git clone https://github.com/mohamed-hazem/ai-web-scraper.git
